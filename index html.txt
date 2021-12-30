@@ -1,3 +1,3 @@
 大家好
-<a href=\ttp://ww.google.com> google</a>
-<a href=\ttp://ww.yahoo.com> yahoo</a>
+<a href=http://vvv.google.com> google</a >
+<a href=http://vvv.yahoo.com> Yahoo</a >
